@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Title: Distinct Missions
   Sections:
-  - Title: Distinct Missions
+  - Title: Distinct Bombs
     MissionIDs:
     - DM001
     - DM002

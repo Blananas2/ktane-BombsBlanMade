@@ -80,11 +80,17 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Crazy
+      - ReversedEdgework
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - ReversedEdgework
+      - Multiple Bombs
+    - Count: 1
+      AllowedSources: 2
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Multiple Bombs:1:{"TimeLimit":150.0,"NumStrikes":3,"TimeBeforeNeedyActivation":90,"FrontFaceOnly":true,"OptionalWidgetCount":0,"ComponentPools":[{"Count":1,"AllowedSources":1,"ComponentTypes":[],"SpecialComponentType":0,"ModTypes":["Crazy"]}]}
   PacingEventsEnabled: 0
