@@ -92,5 +92,5 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Multiple Bombs:1:{"TimeLimit":150.0,"NumStrikes":3,"TimeBeforeNeedyActivation":90,"FrontFaceOnly":true,"OptionalWidgetCount":0,"ComponentPools":[{"Count":1,"AllowedSources":1,"ComponentTypes":[],"SpecialComponentType":0,"ModTypes":["Crazy"]}]}
+      - Multiple Bombs:1:{"TimeLimit":15.0,"NumStrikes":3,"TimeBeforeNeedyActivation":90,"FrontFaceOnly":true,"OptionalWidgetCount":0,"ComponentPools":[{"Count":1,"AllowedSources":1,"ComponentTypes":[],"SpecialComponentType":0,"ModTypes":["Crazy"]}]}
   PacingEventsEnabled: 0
