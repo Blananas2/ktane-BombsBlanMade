@@ -1,0 +1,49 @@
+{Section 1: Hatchling}
+[The Dove]
+(4500, strikes:5, widgets:5)
+Make peace with your existence. A challenge designed for newer players.
+
+{Section 2: Fledgling}
+[The Hummingbird]
+(5100, strikes:5, widgets:5)
+Spread love, spread joy.
+A challenge focused on the experts.
+
+[The Eagle]
+(5100, strikes:5, widgets:5)
+Let nothing escape your gaze. A visual and pattern themed challenge.
+
+[The Flamingo]
+(5100, strikes:5, widgets:5)
+Dazzle everyone and be remembered. A game and gambling themed challenge.
+
+[The Kingfisher]
+(5100, strikes:5, widgets:5)
+Calculate, then make your move. The first math and computing themed challenge.
+
+[The Shrike]
+(5100, strikes:5, widgets:5)
+Hide your true colors.
+The second math and computing themed challenge.
+
+[The Vulture]
+(5100, strikes:5, widgets:5)
+Fight for every scrap.
+A tricky challenge with strange and overlooked modules.
+
+{Section 3: Hunter}
+(01:35:00, strikes:5, widgets:5)
+[The Raven]
+Be curious, be cunning.
+A difficult challenge with many of DireKrow's favourite modules.
+
+[The Albatross]
+(01:35:00, strikes:5, widgets:5)
+Tame the chaos within you.
+A difficult challenge involving Organization
+
+Play with Organization's "ignoreSolveBased" turned OFF for additional challenge.
+
+[The Phoenix]
+(01:35:00, strikes:5, widgets:5)
+From failure, grow and shine ever brighter. A very difficult challenge designed for experienced players.

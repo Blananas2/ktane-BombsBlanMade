@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: theAviary
+  title: The Aviary
+  author: DireKrow
+  description: "This is a reupload of a mod by DireKrow, please unsubscribe from this
+    version: https://steamcommunity.com/sharedfiles/filedetails/?id=2498110216\n\nA
+    collection of 10 challenge bombs by DireKrow. The intent was to cover a wide variety
+    of modules, including some overlooked ones. The bombs cover a range of difficulties
+    and styles.\r\n\r\nShoutouts to the community fork of the modkit. Its features
+    made this possible.\r\n\r\nIf you have any feedback or successfully solve any
+    these bombs, I encourage you to get in touch. I'm DireKrow on the KTANE Discord."
+  version: 2.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 76dc6a6304f03f346a97caf20cd1277c, type: 3}

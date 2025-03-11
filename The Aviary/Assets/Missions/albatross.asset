@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+  m_Name: albatross
+  m_EditorClassIdentifier: 
+  DisplayName: The Albatross
+  Description: "Tame the chaos within you.\r\nA difficult challenge involving Organization\r\n\r\nPlay
+    with Organization's \"ignoreSolveBased\" turned OFF for additional challenge."
+  GeneratorSetting:
+    TimeLimit: 5700
+    NumStrikes: 5
+    TimeBeforeNeedyActivation: 90
+    FrontFaceOnly: 0
+    OptionalWidgetCount: 5
+    ComponentPools:
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - spwiz3DMaze
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - affineCycle
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - spwizAstrology
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - bamboozlingButton
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - burglarAlarm
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Censorship
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - colourcode
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - colouredArrowsModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - CoordinatesModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - DecoloredSquaresModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - dragonEnergy
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - equations
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - flashingArrowsModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - flashingLights
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - gettinFunkyModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - hieroglyphics
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - horribleMemory
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - qSwedishMaze
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - ingredients
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - keypadCombinations
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - keypadMagnified
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - langtonAnt
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - LifeIteration
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - lightspeed
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - lyingIndicators
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - MaritimeFlagsModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - modernCipher
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - modulusManipulation
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - NotWhosOnFirst
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - organizationModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - planets
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Probing
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - quaternions
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - RailwayCargoLoading
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - PasswordV2
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Semaphore
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SuperlogicModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Tangrams
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - tashaSqueals
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - theNumber
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - plungerButton
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - theRule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - treasureHunt
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - ubermodule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - UncoloredSquaresModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - valves
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - VaricoloredSquaresModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - WhiteArrows
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - WordSearchModule
+  PacingEventsEnabled: 1

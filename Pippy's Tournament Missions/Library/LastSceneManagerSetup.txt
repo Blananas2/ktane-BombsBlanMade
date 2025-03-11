@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Pippy's Tournament Missions.unity
+  isLoaded: 1
+  isActive: 1
