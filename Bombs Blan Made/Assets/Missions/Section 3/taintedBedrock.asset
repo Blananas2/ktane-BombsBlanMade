@@ -324,4 +324,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - xtrkeywords
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

@@ -322,4 +322,4 @@ MonoBehaviour:
       - DiscoloredSquaresModule
       - VaricoloredSquaresModule
       - DecoloredSquaresModule
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

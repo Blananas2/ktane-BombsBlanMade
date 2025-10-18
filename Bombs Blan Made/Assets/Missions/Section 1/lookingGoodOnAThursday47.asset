@@ -326,4 +326,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - chineseCounting
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

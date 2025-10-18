@@ -304,4 +304,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - outrageous
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

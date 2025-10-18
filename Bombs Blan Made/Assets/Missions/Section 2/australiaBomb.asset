@@ -305,4 +305,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - NandNs
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

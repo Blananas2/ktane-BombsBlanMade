@@ -314,4 +314,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - zendo
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

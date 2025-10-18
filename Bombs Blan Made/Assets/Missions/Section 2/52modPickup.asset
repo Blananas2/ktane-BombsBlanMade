@@ -130,4 +130,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - OneThousandWords
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

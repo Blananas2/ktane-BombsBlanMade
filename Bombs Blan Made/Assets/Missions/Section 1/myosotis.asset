@@ -302,4 +302,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - bases
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

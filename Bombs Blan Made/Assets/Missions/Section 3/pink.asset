@@ -60,4 +60,4 @@ MonoBehaviour:
       - redHexabuttons
       - whiteHexabuttons
       - yellowHexabuttons
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

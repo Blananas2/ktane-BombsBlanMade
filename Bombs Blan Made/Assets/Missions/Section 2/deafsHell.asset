@@ -250,4 +250,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - GameOfLifeCruel
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

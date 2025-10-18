@@ -662,4 +662,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - screw
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

@@ -302,4 +302,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - Wavetapping
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

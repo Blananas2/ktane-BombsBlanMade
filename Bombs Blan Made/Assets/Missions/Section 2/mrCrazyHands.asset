@@ -306,4 +306,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - kookyKeypadModule
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

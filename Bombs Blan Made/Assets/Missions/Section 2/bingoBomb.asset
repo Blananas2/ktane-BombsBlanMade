@@ -26,4 +26,4 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 1
       ModTypes: []
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

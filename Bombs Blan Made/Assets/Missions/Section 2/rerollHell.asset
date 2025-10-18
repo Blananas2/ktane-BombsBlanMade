@@ -1614,4 +1614,4 @@ MonoBehaviour:
       - fizzBuzzModule
       - symbolicPasswordModule
       - complicatedButtonsModule
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

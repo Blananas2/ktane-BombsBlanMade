@@ -316,4 +316,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - flowerPatch
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

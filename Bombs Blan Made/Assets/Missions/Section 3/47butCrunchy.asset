@@ -303,4 +303,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - AudioKeypad
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

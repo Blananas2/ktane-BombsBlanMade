@@ -306,4 +306,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - Quadrants
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

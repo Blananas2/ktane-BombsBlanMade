@@ -26,281 +26,281 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Astrological 
+      - Astrological
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - BinaryLeds 
+      - BinaryLeds
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - blankCard 
+      - blankCard
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - colorGrid 
+      - colorGrid
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - coprimeChecker 
+      - coprimeChecker
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - eightTilesPanic 
+      - eightTilesPanic
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - EncryptionLingoModule 
+      - EncryptionLingoModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - factoringGrid 
+      - factoringGrid
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Fillominordle 
+      - Fillominordle
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - FollowMe 
+      - FollowMe
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - forgetItNot 
+      - forgetItNot
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MemoryV2 
+      - MemoryV2
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - forgetUsNot 
+      - forgetUsNot
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - genMaze 
+      - genMaze
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - grandPiano 
+      - grandPiano
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - HitmanModule 
+      - HitmanModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - idExchange 
+      - idExchange
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - IsocoloredSquaresModule 
+      - IsocoloredSquaresModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - jupiter 
+      - jupiter
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - linkedWordleModule 
+      - linkedWordleModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - MatchingSigns 
+      - MatchingSigns
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - moddle 
+      - moddle
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - newline 
+      - newline
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - NextInLine 
+      - NextInLine
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - obamaGroceryStore 
+      - obamaGroceryStore
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - ObscurdleModule 
+      - ObscurdleModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - oneLine 
+      - oneLine
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - periodicWordsRB 
+      - periodicWordsRB
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - PointGrid 
+      - PointGrid
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Rambopo 
+      - Rambopo
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - rasterPrime 
+      - rasterPrime
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - RubiksSlideModule 
+      - RubiksSlideModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - SorrySliders 
+      - SorrySliders
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - qkSteamSelector 
+      - qkSteamSelector
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - TheOneTwoThreeGame 
+      - TheOneTwoThreeGame
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - theGarnetThief 
+      - theGarnetThief
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Sporglers 
+      - Sporglers
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - tripleTermModule 
+      - tripleTermModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - trippingTriangles 
+      - trippingTriangles
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - twistyTerminals 
+      - twistyTerminals
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - twitter 
+      - twitter
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - TwoKnobs 
+      - TwoKnobs
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - varicolourFlash 
+      - varicolourFlash
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - VarietyModule 
+      - VarietyModule
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - venus 
+      - venus
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - VoltorbFlip 
+      - VoltorbFlip
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - Wordle 
-  PacingEventsEnabled: 1
+      - Wordle
+  PacingEventsEnabled: 0

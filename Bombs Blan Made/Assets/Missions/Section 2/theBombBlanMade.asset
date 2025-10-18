@@ -301,4 +301,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - ghostMovement
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

@@ -302,4 +302,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - BrokenButtonsModule
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

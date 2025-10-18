@@ -15,39 +15,42 @@ MonoBehaviour:
   Sections:
   - Title: Actually Decent
     MissionIDs:
-    - myosotis
     - klaxonQuartet
-    - lookingGoodOnAThursday47
-    - inverseSquareLaw
+    - luigiHorse
+    - msf
+    - mysteryShack
+    - sayThatAnswer
     - benjaminFranklin
     - aBombWithModulesOnIt
-    - sayThatAnswer
-    - mysteryShack
-    - marigold
-    - salemsBomb
+    - inverseSquareLaw
     - mountain
     - mountainBside
+    - salemsBomb
+    - marigold
+    - moduleMarathon
+    - myosotis
   - Title: Garbage
     MissionIDs:
     - theBombBlanMade
-    - rerollHell
-    - australiaBomb
-    - bingoBomb
-    - bingoBombButWithOrg
-    - yes
     - deafsHell
-    - workshopWall
+    - rerollHell
+    - BETTERJUDGEMENT
+    - australiaBomb
+    - yes
     - moliIlo
     - notGoodBomb
-    - taintedYes
-    - theQuietOne
     - dudeMadness
     - mrCrazyHands
-    - 52modPickup
     - patternRecognition
-    - moduleMarathon
+    - 52modPickup
+    - taintedYes
+    - bingoBomb
+    - bingoBombButWithOrg
+    - theQuietOne
+    - workshopWall
   - Title: People Told Me To Make These
     MissionIDs:
+    - lookingGoodOnAThursday47
     - 47butCrunchy
     - rulebender
     - pink

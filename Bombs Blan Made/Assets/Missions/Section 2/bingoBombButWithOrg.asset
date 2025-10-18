@@ -35,4 +35,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - organizationModule
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

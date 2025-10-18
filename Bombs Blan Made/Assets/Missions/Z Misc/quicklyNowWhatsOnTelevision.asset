@@ -299,4 +299,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - 2048
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

@@ -351,4 +351,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - HexiEvilFMN
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0

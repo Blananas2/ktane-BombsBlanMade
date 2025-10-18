@@ -738,4 +738,4 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - riskyWires
-  PacingEventsEnabled: 1
+  PacingEventsEnabled: 0
