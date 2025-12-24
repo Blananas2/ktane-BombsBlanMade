@@ -25,6 +25,12 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
+      - Petroglyph
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
       - carries
     - Count: 1
       AllowedSources: 1
@@ -38,12 +44,6 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - GSPuzzleBattle
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - paintingCube
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 

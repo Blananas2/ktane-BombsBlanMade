@@ -1,0 +1,501 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+  m_Name: tmco
+  m_EditorClassIdentifier: 
+  DisplayName: This module consists of
+  Description: "You're walking in the woods. There's no one around and your phone
+    is dead. Out of the corner of your eye, you spot him: Shia LaBeouf. He's following
+    you, about thirty feet back. He gets down on all fours and breaks into a sprint.
+    He's gaining on you. Shia LaBeouf. You're looking for your car but you're all
+    turned around. He's almost upon you now, and you can see... There's blood on his
+    face. My God, there's blood everywhere! Running for your life from Shia LaBeouf.
+    He's brandishing a knife, it's Shia LaBeouf Lurking in the shadows. Hollywood
+    superstar Shia LaBeouf.\n[Revision Helper] Does the manual for <i>Color Morse</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>Insane Talk</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Duck Konundrum</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Slight Gibberish Twist</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Stroop's Test</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Venn Diagrams</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Graffiti Numbers</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Equations
+    X</i> contain the title of this mission?  No  Yes\n[Revision Helper] Does the
+    manual for <i>Chromaswapper</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Cruel Qualities</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Emotiguy Identification</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>Three-Way Gates</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>RGB Logic</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Subways</i> contain the title
+    of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Zip Zap Zop</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>The Yellow Button</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Melody Memory</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Dragon Energy</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Melody
+    Sequencer</i> contain the title of this mission?  No  Yes\n[Revision Helper] Does
+    the manual for <i>Flower Patch</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Bean Sprouts</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Faulty Seven Segment Displays</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>Item Predicament</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Not Number Pad</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Module Sprint</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>SixTen</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>Insa Ilo</i> contain the title of this mission?  Yes  No\n[Revision Helper]
+    Does the manual for <i>Digisibility</i> contain the title of this mission?  No
+    \ Yes\n[Revision Helper] Does the manual for <i>Ternary Tiles</i> contain the
+    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Hill
+    Cycle</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>14</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>X-RGB</i> contain the title of this mission?  No
+    \ Yes\n[Revision Helper] Does the manual for <i>Parliament</i> contain the title
+    of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Bordered Keys</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Mechanus Cipher</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Point Grid</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Micro-Modules</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Twisty
+    Terminals</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>Blaseball</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Albuquerque</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Bartending</i> contain the
+    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Affine
+    Cycle</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>Chord Qualities</i> contain the title of this mission?  Yes
+    \ No\n[Revision Helper] Does the manual for <i>Enigma Cycle</i> contain the title
+    of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Kanji</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Not X-Ray</i> contain the title of this mission?  No  Yes\n[Revision Helper]
+    Does the manual for <i>Snooker</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Thirty Dollar Module</i> contain the title of this
+    mission?  No  Yes\n[Revision Helper] Does the manual for <i>Ed Balls</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Earth</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Forget Me No.</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Wire Spaghetti</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Quantum Passwords</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Simon
+    Sings</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>Bamboozling Time Keeper</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Encrypted Maze</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Circuit
+    Charging</i> contain the title of this mission?  No  Yes\n[Revision Helper] Does
+    the manual for <i>Drive-In Window</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Roman Art</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>The World's Largest Button</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Extended Button Order</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Pattern Recognition</i> contain the title of this
+    mission?  No  Yes\n[Revision Helper] Does the manual for <i>Discolour Flash</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>Binary Tree</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Remember Me Now</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Outrageous</i> contain the
+    title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Ultra
+    Digital Root</i> contain the title of this mission?  No  Yes\n[Revision Helper]
+    Does the manual for <i>Labeled Priorities Plus</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Lettered Hexabuttons</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Yellow
+    Hexabuttons</i> contain the title of this mission?  No  Yes\n[Revision Helper]
+    Does the manual for <i>Find The Date</i> contain the title of this mission?  No
+    \ Yes\n[Revision Helper] Does the manual for <i>Emoji</i> contain the title of
+    this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Lines of Code</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Base-1</i> contain the title of this mission?  Yes  No\n[Revision Helper]
+    Does the manual for <i>Rune Match I</i> contain the title of this mission?  Yes
+    \ No\n[Revision Helper] Does the manual for <i>Rusted Morsematics</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Pinpoint</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>Blind Arrows</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Sysadmin</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Cruello</i> contain the title
+    of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Password Mutilator
+    EX</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does the
+    manual for <i>Rhythm Test</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Recorded Keys</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Double-Oh</i> contain the
+    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>The
+    Screw</i> contain the title of this mission?  No  Yes\n[Revision Helper] Does
+    the manual for <i>The Grand Prix</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Maze</i> contain the title of this mission?  Yes
+    \ No\n[Revision Helper] Does the manual for <i>Q</i> contain the title of this
+    mission?  No  Yes\n[Revision Helper] Does the manual for <i>OmegaForget</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Sea
+    Bear Attacks</i> contain the title of this mission?  No  Yes\n[Revision Helper]
+    Does the manual for <i>Ultimate Cycle</i> contain the title of this mission?  Yes
+    \ No\n[Revision Helper] Does the manual for <i>LED Encryption</i> contain the
+    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Marmite</i>
+    contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
+    for <i>Word Count</i> contain the title of this mission?  Yes  No\n[Revision Helper]
+    Does the manual for <i>Astrological</i> contain the title of this mission?  No
+    \ Yes\n[Revision Helper] Does the manual for <i>Channel Surfing</i> contain the
+    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Spangled
+    Stars</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>Futuristic Combo Lock</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>The Impostor</i> contain the
+    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Only
+    Connect</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>ASCII Maze</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Flag Identification</i> contain the title of this
+    mission?  No  Yes\n[Revision Helper] Does the manual for <i>Among the Colors</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Reversed Boolean Network</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Fake Beans</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Connected Quizbowl</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>The
+    Samsung</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>Module Homework</i> contain the title of this mission?  Yes
+    \ No\n[Revision Helper] Does the manual for <i>Caesar Cycle</i> contain the title
+    of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Quizbowl</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Generated Maze</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Coprime Checker</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>New World</i> contain the
+    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Hexiom</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Crackbox</i> contain the title of this mission?  Yes  No\n[Revision Helper]
+    Does the manual for <i>Railway Cargo Loading</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>Forget Me Maybe</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>DingBats</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Planets</i> contain the title of this mission?  Yes  No\n[Revision Helper]
+    Does the manual for <i>Pok\xE9mon Sprite Cipher</i> contain the title of this
+    mission?  No  Yes\n[Revision Helper] Does the manual for <i>Boob Tube</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Mindlock</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Divisible Numbers</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Weezer</i> contain the title of this mission?  No
+    \ Yes\n[Revision Helper] Does the manual for <i>Four Lights</i> contain the title
+    of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Pou</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Sign
+    Language</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>Ordered Keys</i> contain the title of this mission?  Yes  No\n[Revision
+    Helper] Does the manual for <i>Neutrinos</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Chronos</i> contain the title
+    of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>WASD</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Table
+    Madness</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does
+    the manual for <i>Symmetry Shuffle</i> contain the title of this mission?  No
+    \ Yes\n[Revision Helper] Does the manual for <i>IPA</i> contain the title of this
+    mission?  No  Yes\n[Revision Helper] Does the manual for <i>Hertz</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Hold
+    Ups</i> contain the title of this mission?  Yes  No\n[Revision Helper] Does the
+    manual for <i>Module Rick</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>UltraStores</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Rune Match II</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Activities</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Termite</i> contain the title of this mission?  Yes  No\n[Revision Helper]
+    Does the manual for <i>Sound Design</i> contain the title of this mission?  No
+    \ Yes\n[Revision Helper] Does the manual for <i>Unordered Keys</i> contain the
+    title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Cruel
+    Piano Keys</i> contain the title of this mission?  No  Yes\n[Revision Helper]
+    Does the manual for <i>Timed Out</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Simon Strands</i> contain the title of this mission?
+    \ No  Yes\n[Revision Helper] Does the manual for <i>The Psychic Light</i> contain
+    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Guess
+    Who?</i> contain the title of this mission?  No  Yes\n[Revision Helper] Does the
+    manual for <i>Forgetle</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>0</i> contain the title of this mission?  No  Yes"
+  GeneratorSetting:
+    TimeLimit: 3600
+    NumStrikes: 5
+    TimeBeforeNeedyActivation: 60
+    FrontFaceOnly: 0
+    OptionalWidgetCount: 5
+    ComponentPools:
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - GSRevisionHelper
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - forgetThis
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - someButtons
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - quadrecta
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - q&a
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - fourCorners
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - curlyWires
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - ballDial
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - breakers
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - scattershot
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - mixometer
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - delumination
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - QLModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Wendithapn
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TalkingPoints
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Devilish
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TheArena
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Chalices
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Dictation
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - dumbWaiters
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Jailbreak
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - MentalMath
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - mindMeld
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - mirror
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - phones
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - PixelArt
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Rules
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - scratchOff
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Skewers
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Words
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Patterns
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - jackAttack
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Symbstructions
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TheBioscanner
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - switchModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - PointOfOrderModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - WirePlacementModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - ledGrid
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SymbolCycleModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - HumanResourcesModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - ReadingBetweentheLines
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - simonSaidModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - toeTactics
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - doubleDigitsModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - screw
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - keypadMagnified
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - daylightDirections
+  PacingEventsEnabled: 0
