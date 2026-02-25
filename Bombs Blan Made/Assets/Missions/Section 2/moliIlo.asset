@@ -12,9 +12,11 @@ MonoBehaviour:
   m_Name: moliIlo
   m_EditorClassIdentifier: 
   DisplayName: Moli Ilo
-  Description: 'lukin jo tenpo pona en sina kama pali
+  Description: 'sina jo e tenpo mute lon ijo ni.
 
-    luka tenpo suli selo wile'
+    taso, ijo li ken monsuta li ken ike.
+
+    o pakala ala!'
   GeneratorSetting:
     TimeLimit: 9000
     NumStrikes: 10
