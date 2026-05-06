@@ -33,7 +33,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - anomia
+      - GSCorridors
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
@@ -45,7 +45,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - boomdas
+      - investigation
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -75,7 +75,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - codenames
+      - ShapesModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -129,7 +129,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - gemDivision
+      - SwiftEyeTestModule
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -171,7 +171,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - moduleListening
+      - ThreeBits
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -261,7 +261,7 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - toonEnough
+      - ToxicCrystals
     - Count: 1
       AllowedSources: 2
       ComponentTypes: 
@@ -303,5 +303,5 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - zeroZero
+      - xo
   PacingEventsEnabled: 0

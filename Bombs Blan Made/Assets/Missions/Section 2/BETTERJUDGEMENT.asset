@@ -14,7 +14,7 @@ MonoBehaviour:
   DisplayName: BETTER JUDGEMENT
   Description: I'm not at all sorry. ;)
   GeneratorSetting:
-    TimeLimit: 9000
+    TimeLimit: 10800
     NumStrikes: 10
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0

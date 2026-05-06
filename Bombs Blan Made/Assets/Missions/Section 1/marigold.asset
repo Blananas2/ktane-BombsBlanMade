@@ -16,7 +16,7 @@ MonoBehaviour:
 
     Here, have math. Enjoy.'
   GeneratorSetting:
-    TimeLimit: 5400
+    TimeLimit: 7200
     NumStrikes: 5
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0

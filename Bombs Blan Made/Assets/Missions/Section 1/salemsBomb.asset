@@ -146,61 +146,13 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - cannymaze
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - xelGraphIdentification
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - piecePositioning
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - runonSentence
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - GSTeaSet
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - puzzlingButtons
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - rotaryEncoder
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
       - GSFourElements
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - whosOnGas
-    - Count: 1
-      AllowedSources: 1
-      ComponentTypes: 
-      SpecialComponentType: 0
-      ModTypes:
-      - Angles
     - Count: 1
       AllowedSources: 1
       ComponentTypes: 
@@ -351,4 +303,52 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - HexiEvilFMN
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - GSWinningLine
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - europeanTravel
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - matchingMorse
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - mazeCode
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - orangeArrowsModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - orangeCipher
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - Tether
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - TipToe
   PacingEventsEnabled: 0
