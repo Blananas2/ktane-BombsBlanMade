@@ -25,6 +25,7 @@ MonoBehaviour:
     - inverseSquareLaw
     - mountain
     - mountainBside
+    - shouldersGiants
     - salemsBomb
     - marigold
     - moduleMarathon

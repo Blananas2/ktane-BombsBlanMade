@@ -129,14 +129,14 @@ MonoBehaviour:
     title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>The
     Screw</i> contain the title of this mission?  No  Yes\n[Revision Helper] Does
     the manual for <i>The Grand Prix</i> contain the title of this mission?  Yes  No\n[Revision
-    Helper] Does the manual for <i>Maze³</i> contain the title of this mission?  Yes
-    \ No\n[Revision Helper] Does the manual for <i>Q</i> contain the title of this
-    mission?  No  Yes\n[Revision Helper] Does the manual for <i>OmegaForget</i> contain
-    the title of this mission?  Yes  No\n[Revision Helper] Does the manual for <i>Sea
-    Bear Attacks</i> contain the title of this mission?  No  Yes\n[Revision Helper]
-    Does the manual for <i>Ultimate Cycle</i> contain the title of this mission?  Yes
-    \ No\n[Revision Helper] Does the manual for <i>LED Encryption</i> contain the
-    title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Marmite</i>
+    Helper] Does the manual for <i>Maze\xB3</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>Q</i> contain the title of
+    this mission?  No  Yes\n[Revision Helper] Does the manual for <i>OmegaForget</i>
+    contain the title of this mission?  Yes  No\n[Revision Helper] Does the manual
+    for <i>Sea Bear Attacks</i> contain the title of this mission?  No  Yes\n[Revision
+    Helper] Does the manual for <i>Ultimate Cycle</i> contain the title of this mission?
+    \ Yes  No\n[Revision Helper] Does the manual for <i>LED Encryption</i> contain
+    the title of this mission?  No  Yes\n[Revision Helper] Does the manual for <i>Marmite</i>
     contain the title of this mission?  No  Yes\n[Revision Helper] Does the manual
     for <i>Word Count</i> contain the title of this mission?  Yes  No\n[Revision Helper]
     Does the manual for <i>Astrological</i> contain the title of this mission?  No
